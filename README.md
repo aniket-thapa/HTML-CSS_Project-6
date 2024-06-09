@@ -4,7 +4,7 @@ Welcome to my WebUI design project repository! 🎨 This project showcases a sim
 
 ## Preview
 
-[WebUI Preview](https://developer-aniket-thapa.on.drv.tw/HTML-CSS-Project6.com)
+[WebUI Preview](https://example.com)
 
 ## Inspiration
 
